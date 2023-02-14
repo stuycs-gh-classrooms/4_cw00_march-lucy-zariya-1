@@ -1,7 +1,7 @@
 # ClassWork 00 For NeXT CS
 ### Class Period:
-### Name0: YOUR NAME HERE
-### Name1: TABLE_BUDDY NAME HERE
+### Name0: Zariya 
+### Name1: Lucy 
 ### Name2: TABLE_BUDY+ NAME HERE (if applicable, delete this line if not)
 ---
 
