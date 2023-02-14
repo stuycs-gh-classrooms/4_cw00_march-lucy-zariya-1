@@ -24,7 +24,7 @@ Based on the images above, answer the following questions.
 #### Question 0
 What parts of the original map are being highlighted by the edge detection algorithm?
 
-YOUR ANSWER HERE (delete this line)
+The continent borders, the state borders, the state names (abbreviated), 
 
 #### Question 1
 What information that was part of the original image has been lost via edge detection?
