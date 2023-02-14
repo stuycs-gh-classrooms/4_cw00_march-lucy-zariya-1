@@ -2,7 +2,6 @@
 ### Class Period:
 ### Name0: Zariya 
 ### Name1: Lucy 
-### Name2: TABLE_BUDY+ NAME HERE (if applicable, delete this line if not)
 ---
 
 This is a map of average US temperatures from 1991-2020 [source](https://www.climate.gov/sites/default/files/2021-10/Normals_TotalPrecipAvgTemp_Annual_1991-2020_continuous_1400x2193.png)
